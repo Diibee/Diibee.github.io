@@ -102,6 +102,8 @@ header.scrolled nav a {
 
 #Nero #info-text {
   font-size: 25px;
+  max-height: max-content;
+  
 }
 
 #Nero img,

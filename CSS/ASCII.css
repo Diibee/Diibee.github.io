@@ -1,5 +1,4 @@
-#ASCII {
-  max-height: fit-content;
+#ascii-container {
   margin: 0;
   padding: 0;
   background-color: #000;
@@ -7,10 +6,7 @@
   font-family: "Courier";
   font-size: 12pt;
   line-height: 10pt;
-  position: absolute;
-  top: 100px; /* Adjust the top position as needed */
-  left: 50%; /* Position horizontally in the middle */
-  transform: translateX(-50%); /* Center horizontally */
+text-align: center;
 }
 
 canvas {

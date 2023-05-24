@@ -16,8 +16,8 @@ let paddle2Y = 170;
 // Posizione iniziale della pallina
 let ballX = 295;
 let ballY = 195;
-let ballSpeedX = 4; // Velocità orizzontale della pallina
-let ballSpeedY = 4; // Velocità verticale della pallina
+let ballSpeedX = 3.5; // Velocità orizzontale della pallina
+let ballSpeedY = 3.5; // Velocità verticale della pallina
 
 // Funzione per muovere il paddle1
 function movePaddle1(wKey, sKey) {
