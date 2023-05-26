@@ -20,6 +20,10 @@
   right: 40px;
 }
 
+main {
+  visibility: hidden;
+}
+
 #pong {
   z-index: 0;
   position: relative;
